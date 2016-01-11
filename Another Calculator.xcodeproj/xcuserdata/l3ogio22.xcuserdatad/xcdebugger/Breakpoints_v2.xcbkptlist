@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Another Calculator/CalculatorBrain.swift"
+            timestampString = "474152301.328009"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Another Calculator/CalculatorBrain.swift"
+            timestampString = "474154102.978626"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "CalculatorBrain"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Another_Calculator.CalculatorBrain.init (Another_Calculator.CalculatorBrain.Type)() -&gt; Another_Calculator.CalculatorBrain"
+                  moduleName = "Another Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/CalculatorII-master/Another%20Calculator/CalculatorBrain.swift"
+                  timestampString = "474235369.262336"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Another_Calculator.CalculatorBrain.(opStack in _09D7DF1445152DF1788FFBBC1F55AD2A).setter : Swift.Array&lt;Another_Calculator.CalculatorBrain.(Op in _09D7DF1445152DF1788FFBBC1F55AD2A)&gt;"
+                  moduleName = "Another Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/CalculatorII-master/Another%20Calculator/CalculatorBrain.swift"
+                  timestampString = "474235369.262597"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Another_Calculator.CalculatorBrain.(opStack in _09D7DF1445152DF1788FFBBC1F55AD2A).materializeForSet : Swift.Array&lt;Another_Calculator.CalculatorBrain.(Op in _09D7DF1445152DF1788FFBBC1F55AD2A)&gt;"
+                  moduleName = "Another Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/CalculatorII-master/Another%20Calculator/CalculatorBrain.swift"
+                  timestampString = "474235369.262694"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Another Calculator/CalculatorBrain.swift"
+            timestampString = "474232709.582939"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "CalculatorBrain"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Another Calculator/CalculatorBrain.swift"
+            timestampString = "474234812.327277"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "CalculatorBrain"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Another_Calculator.CalculatorBrain.init (Another_Calculator.CalculatorBrain.Type)() -&gt; Another_Calculator.CalculatorBrain"
+                  moduleName = "Another Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/CalculatorII-master/Another%20Calculator/CalculatorBrain.swift"
+                  timestampString = "474235369.28332"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Another_Calculator.CalculatorBrain.(opStack in _09D7DF1445152DF1788FFBBC1F55AD2A).getter : Swift.Array&lt;Another_Calculator.CalculatorBrain.(Op in _09D7DF1445152DF1788FFBBC1F55AD2A)&gt;"
+                  moduleName = "Another Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/CalculatorII-master/Another%20Calculator/CalculatorBrain.swift"
+                  timestampString = "474235369.283497"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Another_Calculator.CalculatorBrain.(opStack in _09D7DF1445152DF1788FFBBC1F55AD2A).setter : Swift.Array&lt;Another_Calculator.CalculatorBrain.(Op in _09D7DF1445152DF1788FFBBC1F55AD2A)&gt;"
+                  moduleName = "Another Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/CalculatorII-master/Another%20Calculator/CalculatorBrain.swift"
+                  timestampString = "474235369.283645"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
